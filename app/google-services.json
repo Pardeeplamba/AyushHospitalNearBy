@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266619281208",
+    "project_id": "ayush-hospital-nearby",
+    "storage_bucket": "ayush-hospital-nearby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266619281208:android:8c20a29264858b1a8febcd",
+        "android_client_info": {
+          "package_name": "com.example.ayushhospitalnearby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266619281208-9l1v6t69qpcp9o5m92o02rmk05ssi70m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBkfJK1bH6l-R6w1pnYS5FUrez_4RqoB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266619281208-9l1v6t69qpcp9o5m92o02rmk05ssi70m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
